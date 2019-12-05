@@ -33,7 +33,10 @@
 
 **Video URL**
 
-[https://www.bilibili.com/video/av78141714/]
+[
+https://www.bilibili.com/video/av78141714/
+https://youtu.be/20H7ysjU-e4
+]
 
 **Output From `stats` Tool**
 ```
