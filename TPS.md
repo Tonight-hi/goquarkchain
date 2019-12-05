@@ -4,7 +4,7 @@
 
 **Number of CPUs**
 
-[node1(80cpu*2) node2(80cpu*2) node3(80cpu)]
+[node1(80cpu x2) node2(80cpu x2) node3(80cpu)]
 
 **Memory (GB)**
 
