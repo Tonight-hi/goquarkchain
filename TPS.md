@@ -115,8 +115,7 @@ Timestamp		Syncing	TPS	Pend.TX	Conf.TX	BPS	SBPS	CPU	ROOT
 ```
 
 **Cluster Configurations**
-[Provide the link to the cluster config file (cluster_config_template.json, checked in to your forked repo) used in your clusters. 
-If deployer is used, please provide deployConfig.json as well (password is not needed).]
+[https://github.com/Tonight-hi/goquarkchain/blob/master/tests/loadtest/deployer/deployConfig.json]
 
 **Additional Comment**
 
