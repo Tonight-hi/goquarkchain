@@ -5,9 +5,9 @@
 **Number of CPUs**
 
 [
-{node1(64cpu x14)}
-{node2(64cpu x12)}
-{node3(80cpu x1)}
+1>(64cpu x14)
+2>(64cpu x12)
+3>(64cpu x1)
 ]
 
 **Memory (GB)**
@@ -16,7 +16,7 @@
 
 **Storage (GB)**
 
-[256gb*27]
+[50gb*27]
 
 **Network**
 
