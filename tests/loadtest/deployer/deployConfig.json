@@ -1,45 +1,221 @@
-        {
+    {
 	"DockerName": "quarkchaindocker/goquarkchain",
 	"Hosts": [
 	{
-	"IP": "172.27.16.13",
+	"IP": "172.22.0.2",
 	"Port": 22,
 	"User": "root",
-	"Password": "Qw147258",
+	"Password": "Mgu12345",
 	"IsMaster": true,
-	"SlaveNumber": 32,
+	"SlaveNumber": 18,
 	"ClusterID": 0
 	},{
-	"IP": "172.27.16.10",
+	"IP": "172.22.0.15",
 	"Port": 22,
 	"User": "root",
-	"Password": "Qw147258",
+	"Password": "Mgu12345",
+	"IsMaster": false,
+	"SlaveNumber": 18,
+	"ClusterID": 0
+	},{
+	"IP": "172.22.0.17",
+	"Port": 22,
+	"User": "root",
+	"Password": "Mgu12345",
+	"IsMaster": false,
+	"SlaveNumber": 18,
+	"ClusterID": 0
+	},{
+	"IP": "172.22.0.6",
+	"Port": 22,
+	"User": "root",
+	"Password": "Mgu12345",
+	"IsMaster": false,
+	"SlaveNumber": 18,
+	"ClusterID": 0
+	},{
+	"IP": "172.22.0.7",
+	"Port": 22,
+	"User": "root",
+	"Password": "Mgu12345",
 	"IsMaster": false,
 	"SlaveNumber": 32,
 	"ClusterID": 0
 	},{
-	"IP": "172.27.16.9",
+	"IP": "172.22.0.16",
 	"Port": 22,
 	"User": "root",
-	"Password": "Qw147258",
+	"Password": "Mgu12345",
+	"IsMaster": false,
+	"SlaveNumber": 18,
+	"ClusterID": 0
+	},{
+	"IP": "172.22.0.14",
+	"Port": 22,
+	"User": "root",
+	"Password": "Mgu12345",
+	"IsMaster": false,
+	"SlaveNumber": 32,
+	"ClusterID": 0
+	},{
+	"IP": "172.22.0.4",
+	"Port": 22,
+	"User": "root",
+	"Password": "Mgu12345",
+	"IsMaster": false,
+	"SlaveNumber": 18,
+	"ClusterID": 0
+	},{
+	"IP": "172.22.0.37",
+	"Port": 22,
+	"User": "root",
+	"Password": "Mgu12345",
+	"IsMaster": false,
+	"SlaveNumber": 32,
+	"ClusterID": 0
+	},{
+	"IP": "172.22.0.9",
+	"Port": 22,
+	"User": "root",
+	"Password": "Mgu12345",
+	"IsMaster": false,
+	"SlaveNumber": 18,
+	"ClusterID": 0
+	},{
+	"IP": "172.22.0.45",
+	"Port": 22,
+	"User": "root",
+	"Password": "Mgu12345",
+	"IsMaster": false,
+	"SlaveNumber": 18,
+	"ClusterID": 0
+	},{
+	"IP": "172.22.0.10",
+	"Port": 22,
+	"User": "root",
+	"Password": "Mgu12345",
+	"IsMaster": false,
+	"SlaveNumber": 18,
+	"ClusterID": 0
+	},{
+	"IP": "172.22.0.5",
+	"Port": 22,
+	"User": "root",
+	"Password": "Mgu12345",
+	"IsMaster": false,
+	"SlaveNumber": 18,
+	"ClusterID": 0
+	},{
+	"IP": "172.22.0.10",
+	"Port": 22,
+	"User": "root",
+	"Password": "Mgu12345",
+	"IsMaster": false,
+	"SlaveNumber": 22,
+	"ClusterID": 0
+	},{
+	"IP": "172.22.0.11",
+	"Port": 22,
+	"User": "root",
+	"Password": "Mgu12345",
 	"IsMaster": true,
 	"SlaveNumber": 32,
 	"ClusterID": 1
 	},{
-	"IP": "172.27.16.14",
+	"IP": "172.22.0.21",
 	"Port": 22,
 	"User": "root",
-	"Password": "Qw147258",
+	"Password": "Mgu12345",
+	"IsMaster": false,
+	"SlaveNumber": 21,
+	"ClusterID": 1
+	},{
+	"IP": "172.22.0.26",
+	"Port": 22,
+	"User": "root",
+	"Password": "Mgu12345",
+	"IsMaster": false,
+	"SlaveNumber": 21,
+	"ClusterID": 1
+	},{
+	"IP": "172.22.0.29",
+	"Port": 22,
+	"User": "root",
+	"Password": "Mgu12345",
+	"IsMaster": false,
+	"SlaveNumber": 21,
+	"ClusterID": 1
+	},{
+	"IP": "172.22.0.48",
+	"Port": 22,
+	"User": "root",
+	"Password": "Mgu12345",
+	"IsMaster": false,
+	"SlaveNumber": 21,
+	"ClusterID": 1
+	},{
+	"IP": "172.22.0.24",
+	"Port": 22,
+	"User": "root",
+	"Password": "Mgu12345",
+	"IsMaster": false,
+	"SlaveNumber": 21,
+	"ClusterID": 1
+	},{
+	"IP": "172.22.0.46",
+	"Port": 22,
+	"User": "root",
+	"Password": "Mgu12345",
+	"IsMaster": false,
+	"SlaveNumber": 23,
+	"ClusterID": 1
+	},{
+	"IP": "172.22.0.13",
+	"Port": 22,
+	"User": "root",
+	"Password": "Mgu12345",
+	"IsMaster": false,
+	"SlaveNumber": 21,
+	"ClusterID": 1
+	},{
+	"IP": "172.22.0.49",
+	"Port": 22,
+	"User": "root",
+	"Password": "Mgu12345",
+	"IsMaster": false,
+	"SlaveNumber": 23,
+	"ClusterID": 1
+	},{
+	"IP": "172.22.0.20",
+	"Port": 22,
+	"User": "root",
+	"Password": "Mgu12345",
+	"IsMaster": false,
+	"SlaveNumber": 21,
+	"ClusterID": 1
+	},{
+	"IP": "172.22.0.3",
+	"Port": 22,
+	"User": "root",
+	"Password": "Mgu12345",
 	"IsMaster": false,
 	"SlaveNumber": 32,
 	"ClusterID": 1
 	},{
-	"IP": "172.27.16.5",
+	"IP": "172.22.0.44",
 	"Port": 22,
 	"User": "root",
-	"Password": "Qw147258",
+	"Password": "Mgu12345",
+	"IsMaster": false,
+	"SlaveNumber": 21,
+	"ClusterID": 1
+	},{
+	"IP": "172.22.0.12",
+	"Port": 22,
+	"User": "root",
+	"Password": "Mgu12345",
 	"IsMaster": true,
-	"SlaveNumber": 128,
+	"SlaveNumber": 32,
 	"ClusterID": 2
 	}
 	],
