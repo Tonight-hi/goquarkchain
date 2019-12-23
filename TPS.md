@@ -5,9 +5,9 @@
 **Number of CPUs**
 
 [
-1>(64cpu x14)
-2>(64cpu x12)
-3>(64cpu x1)
+(64cpu x14)
+(64cpu x12)
+(64cpu x1)
 ]
 
 **Memory (GB)**
